@@ -3,4 +3,4 @@ def plus_two(3)
     5
 end
 
-plus_two
+puts plus_two
